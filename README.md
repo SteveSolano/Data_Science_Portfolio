@@ -24,7 +24,7 @@ In addition to the projects mentioned above, I've worked on a variety of other p
 
 ## Contact
 
-If you're interested in collaborations, job opportunities, or simply want to learn more about my projects, feel free to reach out to me at email@example.com.
+If you're interested in collaborations, job opportunities, or simply want to learn more about my projects, feel free to reach out to me at smsolano22@gmail.com.
 
 Thanks for visiting my portfolio!
 
