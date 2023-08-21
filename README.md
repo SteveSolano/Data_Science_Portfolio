@@ -14,7 +14,7 @@ Welcome to my data science projects portfolio! Here you'll find a collection of 
 
 In this project, I conducted an in-depth analysis of e-commerce data to understand customer behavior and enhance marketing strategy. I used Python and libraries such as pandas and matplotlib to explore the data and present meaningful visualizations.
 
-### Project 2: Housing Price Prediction
+### Project 2: Natural Language Processing
 
 In this project, I implemented machine learning models to predict housing prices based on various features. I utilized regression techniques and model evaluation to achieve accurate predictions and presented the results through interactive visualizations.
 
